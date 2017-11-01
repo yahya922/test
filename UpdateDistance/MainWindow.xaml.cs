@@ -67,7 +67,7 @@ namespace UpdateDistance
 
                     /* Compute the duration between the initial and the end time. */
                     duration = stopTime - startTime;
-                    Console.WriteLine("New     :" + duration);
+                    Console.WriteLine("Nessw     :" + duration);
 
                     Console.WriteLine("----------------");
                 }
